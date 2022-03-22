@@ -2,7 +2,7 @@
   "name": "mosaic-light-vue",
   "version": "0.0.0",
   "scripts": {
-    "dev": "TAILWIND_MODE=watch vite",
+    "dev": "vite",
     "build": "vite build",
     "serve": "vite preview"
   },
